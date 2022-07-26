@@ -17,7 +17,7 @@ Contains html script for Clarabele Bakery Supply website
 ## 🚀 Live Preview :
 
 - ![Capture](https://user-images.githubusercontent.com/80201030/180967538-bf603948-425c-4ff7-9316-40e3841ac3f0.PNG)
-- Web Live Preview :
+- Web Live Preview :  https://alfdhiw.github.io/Web-ClarabeleBakery/
 
 ## 😊 Notice :
 
